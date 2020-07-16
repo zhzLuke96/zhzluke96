@@ -1,4 +1,4 @@
-![header](./header.gif)
+![header](https://github.com/zhzLuke96/zhzluke96/blob/master/header.gif?raw=true)
 
 > FSM forever!
 
