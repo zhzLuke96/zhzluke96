@@ -13,9 +13,10 @@
 - 😄 AKA: `免谷子`
 
 ### How to reach me
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> Telegram: [@lukrZhang](https://t.me/lukrZhang)
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> [@lukrZhang](https://t.me/boss_bamboo_118)
 - 📫 [o2g.luke@outlook.com](o2g.luke@outlook.com)
 - 💊 QQ: emh6bHVrcjk2QHFxLmNvbQ==
+- 📱 +1 (361)210-8658
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
