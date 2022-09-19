@@ -5,7 +5,6 @@
 - 🔭 I’m currently working base on [@上海](https://www.google.com/maps/place/中國上海市)
 - 🌱 I’m currently research topic [`NEAT`][NEAT] / `Reverse Engineering`
 - 👯 I’m looking to collaborate on `web Front-end`
-- 🤔 I’m looking for help with `micro-faas-design`
 - 💬 Ask me about `web` / `golang` / `prolog` / `app protocol` / `telegram bot`, I am happy to help
 - ⚡ Beside's programming, I enjoy 🛠`键政` / 🧰[`EE`][EE] / 🗿[`PH`][PH] / 💪`Fitness` / 🎮`Video Games`
 - 😄 AKA: `免谷子`
