@@ -6,13 +6,13 @@
 - 🌱 I’m currently research topic [`NEAT`][NEAT] / `Reverse Engineering`
 - 👯 I’m looking to collaborate on `web Front-end`
 - 💬 Ask me about `web` / `golang` / `prolog` / `app protocol` / `telegram bot`, I am happy to help
-- ⚡ Beside's programming, I enjoy 🛠`键政` / 🧰[`EE`][EE] / 🗿[`PH`][PH] / 💪`Fitness` / 🎮`Video Games`
+- ⚡ Beside's programming, I enjoy 🛠`键政` / 🧰[`EE`][EE] / 🗿[`PH`][PH] / 🎮`Video Games`
 - 😄 AKA: `免谷子`
 
 ### How to reach me
 > TG Oneline 24 hours
 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> [@接待员](https://t.me/luke96_ingress_bot)
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> [@luke96_ingress_bot](https://t.me/luke96_ingress_bot)
 - 📫 [o2g.luke@outlook.com](o2g.luke@outlook.com)
 - 📱 +1 (361)210-8658
 
