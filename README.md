@@ -9,20 +9,20 @@
 - ⚡ Beside's programming, I enjoy 🛠`键政` / 🧰[`EE`][EE] / 🗿[`PH`][PH] / 🎮`Video Games`
 - 😄 AKA: `免谷子`
 
-### How to reach me
-> TG Online 24 hours
-
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> [@luke96_ingress_bot](https://t.me/luke96_ingress_bot)
-- 📫 [o2g.luke@outlook.com](o2g.luke@outlook.com)
-- 📱 +1 (361)210-8658
-
-**Languages:**  
+**Languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+### How to reach me
+> TG Online 24 hours
+
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> [@luke96_ingress_bot](https://t.me/luke96_ingress_bot)
+- 📫 [o2g.luke@outlook.com](o2g.luke@outlook.com)
+- 📱 +1 (361)210-8658
 
 ### How get permission to call pbsb
 `pbsb` is only in internal testing at the moment, if you want to participate in the testing, please go to [telegram @bot](https://t.me/luke96_ingress_bot) to create a job-ticket and we will contact you in the first instance
