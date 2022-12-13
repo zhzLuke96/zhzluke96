@@ -21,7 +21,7 @@
 > TG Online 24 hours
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> [@luke96_ingress_bot](https://t.me/luke96_ingress_bot)
-- 📫 [o2g.luke@outlook.com](o2g.luke@outlook.com)
+- 📫 [o2g.luke@outlook.com](zhzluke96@outlook.com)
 - 📱 +1 (361)210-8658
 
 ### How get permission to call pbsb
