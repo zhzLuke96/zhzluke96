@@ -22,8 +22,10 @@
 - 📫 [zhzluke96@qq.com](zhzluke96@qq.com)
 - <!-- 📱 +1 (361)210-8658 -->
 
+<!--
 ### How get permission to call pbsb
 `pbsb` is only in internal testing at the moment, if you want to participate in the testing, please go to [telegram @bot](https://t.me/luke96_ingress_bot) to create a job-ticket and we will contact you in the first instance
+-->
 
 ### Thx You 🙏🏼
 
