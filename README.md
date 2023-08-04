@@ -3,8 +3,8 @@
 ### Hey 👋, I'm [zhzLuke96](https://github.com/zhzLuke96)!
 
 - 🔭 I’m currently working base on [@上海](https://www.google.com/maps/place/中國上海市)
-- 🌱 I’m currently research topic [`NEAT`][NEAT] / `Reverse Engineering`
-- 👯 I’m looking to collaborate on `web Front-end`
+- 🌱 I’m currently research topic [`NEAT`][NEAT] / `Reverse Engineering` / `stable diffusion`
+- 👯 I’m looking to collaborate on `web front-end`
 - 💬 Ask me about `web` / `golang` / `prolog` / `app protocol` / `telegram bot`, I am happy to help
 - ⚡ Beside's programming, I enjoy 🛠`键政` / 🧰[`EE`][EE] / 🗿[`PH`][PH] / 🎮`Video Games`
 - 😄 AKA: `免谷子`
@@ -18,11 +18,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ### How to reach me
-> TG Online 24 hours
-
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> <del>[@luke96_ingress_bot](https://t.me/luke96_ingress_bot)  （offline. coom soon...）</del>
 - 📫 [zhzluke96@outlook.com](zhzluke96@outlook.com)
-- 📱 +1 (361)210-8658
+- 📫 [zhzluke96@qq.com](zhzluke96@qq.com)
+- <!-- 📱 +1 (361)210-8658 -->
 
 ### How get permission to call pbsb
 `pbsb` is only in internal testing at the moment, if you want to participate in the testing, please go to [telegram @bot](https://t.me/luke96_ingress_bot) to create a job-ticket and we will contact you in the first instance
