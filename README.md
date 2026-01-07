@@ -8,7 +8,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhzluke96&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zhzluke96&layout=compact&theme=dark)
 
 ### Contact
 - 📫 [zhzluke96@outlook.com](mailto:zhzluke96@outlook.com)
